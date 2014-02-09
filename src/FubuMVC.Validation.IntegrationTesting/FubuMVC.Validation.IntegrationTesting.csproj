@@ -138,6 +138,7 @@
     <Compile Include="Ajax\IntegratedAjaxTester.cs" />
     <Compile Include="LoFi\IntegratedLoFiEndpoint.cs" />
     <Compile Include="LoFi\IntegratedLoFiTester.cs" />
+    <Compile Include="MissingValueTester.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="remote_rule_integrated_tester.cs" />
     <Compile Include="ServerHarness.cs" />
